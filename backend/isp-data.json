@@ -1,0 +1,115 @@
+{
+  "providers": [
+    {
+      "name": "FastNet",
+      "lowest_price": 29.99,
+      "rating": 4,
+      "max_speed": "500 Mbps",
+      "description": "FastNet offers high-speed internet with reliable connectivity.",
+      "contact_no": "+1 (800) 123-4567",
+      "email": "info@fastnet.com",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSi--tiDmuBNsXWEHSrV4CK5g7QHVbROcNS_3jbK3jqA&s",
+      "url": "https://fastnet.com"
+    },
+    {
+      "name": "QuickLink",
+      "lowest_price": 39.99,
+      "rating": 4,
+      "max_speed": "300 Mbps",
+      "description": "QuickLink provides affordable high-speed internet services.",
+      "contact_no": "+1 (888) 555-7890",
+      "email": "support@quicklink.net",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXpAXRzXqPOQky3KmxsVtKT5g4-vRILtbl8K46CqYOtA&s",
+      "url": "https://quicklink.net"
+    },
+    {
+      "name": "SpeedyConnect",
+      "lowest_price": 45.99,
+      "rating": 5,
+      "max_speed": "1 Gbps",
+      "description": "SpeedyConnect offers lightning-fast internet with unbeatable speeds.",
+      "contact_no": "+1 (877) 123-4567",
+      "email": "info@speedyconnect.com",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXVIDzgHmCNlp7Z1N37xD_UMfDb--w0RN-ZSyb5BcFWw&s",
+      "url": "https://speedyconnect.com"
+    },
+    {
+      "name": "NetBlaze",
+      "lowest_price": 35.99,
+      "rating": 4,
+      "max_speed": "250 Mbps",
+      "description": "NetBlaze delivers high-quality internet service at competitive prices.",
+      "contact_no": "+1 (866) 987-6543",
+      "email": "contact@netblaze.net",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQRxBAIcH4b99Y0NNjMBca82NpMgnQuhnHvSNSF5Ojg&s",
+      "url": "https://netblaze.net"
+    },
+    {
+      "name": "MegaSpeed",
+      "lowest_price": 49.99,
+      "rating": 5,
+      "max_speed": "2 Gbps",
+      "description": "MegaSpeed offers ultra-fast internet for seamless browsing and streaming.",
+      "contact_no": "+1 (855) 555-1234",
+      "email": "info@megaspeed.com",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWZq4eQQtqPmDApxVqGv56HKYKwj2pyklQIjSfYddTwg&s",
+      "url": "https://megaspeed.com"
+    },
+    {
+      "name": "VelocityNet",
+      "lowest_price": 32.99,
+      "rating": 4,
+      "max_speed": "150 Mbps",
+      "description": "VelocityNet provides reliable internet connectivity for homes and businesses.",
+      "contact_no": "+1 (877) 987-6543",
+      "email": "support@velocitynet.net",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjvoHit5n_nPZwaMPrbNt0-dpfThhDufufAqoUZSgxSQ&s",
+      "url": "https://velocitynet.net"
+    },
+    {
+      "name": "SkyLink",
+      "lowest_price": 55.99,
+      "rating": 4,
+      "max_speed": "750 Mbps",
+      "description": "SkyLink delivers high-speed internet with exceptional reliability.",
+      "contact_no": "+1 (844) 321-8765",
+      "email": "info@skylink.com",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRndL2bFMg6Hf7xpNi3wYeFLyTUbpGpNRxB6UZkvWR7ZA&s",
+      "url": "https://skylink.com"
+    },
+    {
+      "name": "ConnectX",
+      "lowest_price": 42.99,
+      "rating": 4,
+      "max_speed": "400 Mbps",
+      "description": "ConnectX offers fast and affordable internet solutions for residential and business customers.",
+      "contact_no": "+1 (833) 456-7890",
+      "email": "info@connectx.net",
+      "image": "https://media.licdn.com/dms/image/C4D1BAQGvdff7FutQaw/company-background_10000/0/1643630099324/apexconnect1_cover?e=2147483647&v=beta&t=TSSpXMlS5zkJnGfSCvK2Tw_5PTVhq5cHBqlHfUdSUnA",
+      "url": "https://connectx.net"
+    },
+    {
+      "name": "SwiftStream",
+      "lowest_price": 38.99,
+      "rating": 5,
+      "max_speed": "600 Mbps",
+      "description": "SwiftStream provides high-speed internet services with top-notch customer support.",
+      "contact_no": "+1 (822) 555-6789",
+      "email": "support@swiftstream.com",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN42iHD9qt6YgnjeD6Y5Xk55axEqHTfO79biXiMJQXkQ&s",
+      "url": "https://swiftstream.com"
+    },
+    {
+      "name": "BlazeNet",
+      "lowest_price": 47.99,
+      "rating": 3,
+      "max_speed": "500 Mbps",
+      "description": "BlazeNet offers blazing-fast internet with reliable connectivity.",
+      "contact_no": "+1 (811) 234-5678",
+      "email": "info@blazenet.com",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBrlrClnyCAIrKo3HMWjkext02nt244DZWaIUxY6dZ1A&s",
+      "url": "https://blazenet.com"
+    }
+  ],
+  "api-hits" : 1
+}
